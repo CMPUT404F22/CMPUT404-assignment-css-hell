@@ -12,6 +12,17 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+
+Changes
+====================
+### Changes made to Project Gutenberg html files
+- Commented out the paragraph styles that were included with the html files because they would otherwise
+override the new theme created
+
+References
+====================
+1. Link: https://codetheweb.blog/steps-to-creating-a-website/. Owner: Ethan. Date Accessed: 2022/10/25.
+
 License/Copyright
 =================
 

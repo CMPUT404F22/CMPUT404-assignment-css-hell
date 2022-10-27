@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-color: yellow;
+}
+
+header {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 25%;
+    right: 0;
+    height: 100px;
+}
+
+header * {
+    display: inline;
+    height: 50px;
+}
+
+section {
+    height: 70vh;
+    border: 10px solid red;
+    display: flex;
+}
+
+#home .profile-image {
+    width: 300px;
+    height: 250px;
+}
+
+#home h1 {
+    font-size: 7em;
+}
+
+section h2 {
+    font-size: 5em;
+}
+
+section h3 {
+    font-size: 3em;
+}
